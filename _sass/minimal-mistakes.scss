@@ -1,0 +1,114 @@
+/*!
+ * Minimal Mistakes Jekyll Theme 4.24.0 by Michael Rose
+ * Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
+ * Licensed under MIT (https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE)
+*/
+
+/* Variables */
+@import "minimal-mistakes/variables";
+
+/* Mixins and functions */
+@import "minimal-mistakes/vendor/breakpoint/breakpoint";
+@include breakpoint-set("to ems", true);
+@import "minimal-mistakes/vendor/magnific-popup/magnific-popup"; // Magnific Popup
+@import "minimal-mistakes/vendor/susy/susy";
+@import "minimal-mistakes/mixins";
+
+/* Core CSS */
+@import "minimal-mistakes/reset";
+@import "minimal-mistakes/base";
+@import "minimal-mistakes/forms";
+@import "minimal-mistakes/tables";
+@import "minimal-mistakes/animations";
+
+/* Components */
+@import "minimal-mistakes/buttons";
+@import "minimal-mistakes/notices";
+@import "minimal-mistakes/masthead";
+@import "minimal-mistakes/navigation";
+@import "minimal-mistakes/footer";
+@import "minimal-mistakes/search";
+@import "minimal-mistakes/syntax";
+
+/* Utility classes */
+@import "minimal-mistakes/utilities";
+
+/* Layout specific */
+@import "minimal-mistakes/page";
+@import "minimal-mistakes/archive";
+@import "minimal-mistakes/sidebar";
+@import "minimal-mistakes/print";
+
+/* my stuff */
+
+$quasi-green: #82d555;
+$quasi-green-dark: #589436;
+
+//3 Bilder nebeneinander in ueber
+.spalte {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+.reihe::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+//Badge auf Bild 10 Jahre Quasi
+.item {
+    position:relative;
+    padding-top:20px;
+    display:inline-block;
+    float: right;
+}
+.badge{
+    position: absolute;
+    right:-20px;
+    top:10px;
+    background: $quasi-green-dark;
+    text-align: center;
+    border-radius: 30px 30px 30px 30px;
+    color:white;
+    padding:5px 10px;
+    font-size:20px;
+}
+
+
+//Allgemein Zeug grün machen
+h3 {
+  color: $quasi-green;
+}
+h2 {
+  color: $quasi-green;
+}
+
+//Link in Tabelle
+a {
+  color: lightblue;
+}
+
+//Form
+label {
+  color: black;
+}
+
+//Footer überall gleiche Farbe wie Hintergrund
+.page__footer {
+  background-color: $background-color
+}
+
+//Button auf Hauptseite Hintergrund
+.btn--light-outline {
+  background-color: $quasi-green-dark;
+}
+
+.greedy-nav .visible-links a::before {
+  background-color: $quasi-green;
+}
+
+//When no Facebook, this is the left border 
+blockquote {
+  border-left-color: $quasi-green
+}

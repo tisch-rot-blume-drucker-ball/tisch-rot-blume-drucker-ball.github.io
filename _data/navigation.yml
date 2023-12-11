@@ -1,0 +1,12 @@
+# main links links
+main:
+  - title: "Start"
+    url: /
+  - title: "Über Uns"
+    url: /_pages/ueber/
+  - title: "Galerie"
+    url: /_pages/galerie/
+  - title: "Auftritte"
+    url: /_pages/auftritte/
+  - title: "Kontakt"
+    url: /_pages/kontakt/
