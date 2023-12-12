@@ -7,7 +7,7 @@ subtitle                 : "100% Live 100% Sound"
 name                     : "Quasi ne Band"
 description              : "Homepage der Band 'Quasi ne Band'"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/website/"
+baseurl                  : "/"
 logo                     : "/assets/images/Quasilogo.webp" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Quasi ne Band" # overrides the website title displayed in the masthead, use " " for no title
 
