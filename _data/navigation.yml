@@ -3,10 +3,10 @@ main:
   - title: "Start"
     url: /
   - title: "Über Uns"
-    url: /_pages/ueber/
+    url: /_pages/ueber
   - title: "Galerie"
-    url: /_pages/galerie/
+    url: /_pages/galerie
   - title: "Auftritte"
-    url: /_pages/auftritte/
+    url: /_pages/auftritte
   - title: "Kontakt"
-    url: /_pages/kontakt/
+    url: /_pages/kontakt
