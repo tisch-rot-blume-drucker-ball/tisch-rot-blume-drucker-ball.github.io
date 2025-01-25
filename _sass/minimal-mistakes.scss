@@ -112,3 +112,12 @@ label {
 blockquote {
   border-left-color: $quasi-green
 }
+
+//Hamburger Menu in Mobile View
+.greedy-nav__toggle {
+  color: $quasi-green;
+}
+
+.greedy-nav__toggle:hover {
+  color: $quasi-green-dark;
+}
