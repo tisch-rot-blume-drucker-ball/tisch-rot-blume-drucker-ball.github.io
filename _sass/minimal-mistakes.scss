@@ -121,3 +121,17 @@ blockquote {
 .greedy-nav__toggle:hover {
   color: $quasi-green-dark;
 }
+
+// Fix header image cropping
+.page__hero--overlay {
+  .wrapper {
+    width: 100%;
+  }
+  
+  .overlay_image {
+    object-fit: contain;
+    width: 100%;
+    height: auto;
+    max-height: 100vh;
+  }
+}
