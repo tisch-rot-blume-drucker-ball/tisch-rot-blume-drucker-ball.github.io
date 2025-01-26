@@ -115,11 +115,13 @@ blockquote {
 
 //Hamburger Menu in Mobile View
 .navicon {
-  background: $quasi-green !important;
+  background: $quasi-green;
 }
-
-.navicon:hover {
-  color: $quasi-green-dark;
+.navicon::before {
+  background: $quasi-green;
+}
+.navicon::after {
+  background: $quasi-green;
 }
 
 // Fix header image cropping
