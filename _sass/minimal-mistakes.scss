@@ -124,3 +124,19 @@ blockquote {
   background: $quasi-green;
 }
 
+/* General background image settings */
+/* Desktop and larger screens */
+@media screen and (min-width: 769px) {
+  .page__hero--overlay {
+    background-position: center top;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+  }
+}
+
+/* Mobile screens */
+@media screen and (max-width: 768px) {
+  .page__hero--overlay {
+    background-position: center top !important;
+  }
+}
