@@ -96,7 +96,22 @@ label {
 
 //Footer überall gleiche Farbe wie Hintergrund
 .page__footer {
-  background-color: $background-color
+  background-color: $background-color;
+  color: #fff;  /* Make footer text white */
+
+  a {
+    color: #fff;
+  }
+}
+
+.masthead {
+  color: #fff;  /* Make header text white */
+
+  .greedy-nav {
+    a {
+      color: #fff;
+    }
+  }
 }
 
 //Button auf Hauptseite Hintergrund
