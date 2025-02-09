@@ -137,20 +137,23 @@ blockquote {
 }
 
 /* General background image settings */
+.page__hero--overlay {
+  position: relative;  /* Ensure proper stacking context */
+
+  /* Ensure content stays above overlay */
+  .wrapper {
+    position: relative;
+    z-index: 2;
+  }
+}
+
 /* Desktop and larger screens */
 @media screen and (min-width: 769px) {
   .page__hero--overlay {
-    position: relative;  /* Ensure proper stacking context */
     background-position: center top;
     background-attachment: fixed;
     background-repeat: no-repeat;
     min-height: 64vh;
-
-    /* Ensure content stays above overlay */
-    .wrapper {
-      position: relative;
-      z-index: 2;
-    }
   }
 }
 
