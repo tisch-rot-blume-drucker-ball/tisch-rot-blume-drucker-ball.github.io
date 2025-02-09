@@ -65,12 +65,16 @@ gallery:
 
 ## Video
 
-<!-- TODO Hat Quasi die Rechte? + Geht auf GitHub? -->
-<center>
-    <video width="80%" height="auto" controls  controlsList="nodownload"  oncontextmenu="return false;" >
-      <source src="../../assets/images/V.mp4" type="video/mp4">
-    </video>
-</center>
+<div id="youtube-container">
+  <button id="YouTubeB" onclick="showYouTube()">Durch die Nutzung des YouTube-Videos werden eventuell zusätzliche Cookies außerhalb unserer Website gesetzt (<a href='/_pages/datenschutz/'> Datenschutzerklärung </a>). Indem Sie auf diesen Knopf klicken, stimmen Sie deren Verwendung zu und sehen das Video. <a href='/_pages/datenschutz/'> Datenschutzerklärung </a></button>
+</div>
+
+<script>
+  function showYouTube() {
+    var container = document.getElementById("youtube-container");
+    container.innerHTML = '<iframe width="80%" height="450" src="https://www.youtube.com/embed/2ozP4103bL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin: 0 auto;"></iframe>';
+  }
+</script>
 
 ## Bilder
 
