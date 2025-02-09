@@ -72,7 +72,7 @@ gallery:
 <script>
   function showYouTube() {
     var container = document.getElementById("youtube-container");
-    container.innerHTML = '<iframe width="80%" height="450" src="https://www.youtube.com/embed/2ozP4103bL8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin: 0 auto;"></iframe>';
+    container.innerHTML = '<iframe width="80%" height="450" src="https://www.youtube.com/embed/2ozP4103bL8?autoplay=1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="display: block; margin: 0 auto;"></iframe>';
   }
 </script>
 
