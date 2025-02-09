@@ -80,14 +80,13 @@ function showFacebook() {
     var T = document.getElementById("fb");
     T.style.display = "block";
 
-    var B = document.getElementById("FacebookB");
+    var B = document.querySelector(".consent-button");
     B.style.display = "none"; 
 }
 </script>
 
 <!-- TODO Form: Muss noch sage mit Click erlaube ich Senden an X -->
-<button id="FacebookB" onclick="showFacebook()">Durch die Nutzung des Facebook Plugins werden eventuell zusätzliche Cookies außerhalb unserer Website gesetzt (<a href='/_pages/datenschutz/'> Datenschutzerklärung </a> ). Indem Sie auf diesen Knopf klicken, stimmen Sie deren Verwendung zu und sehen den Facebook. <a href='/_pages/datenschutz/'> Datenschutzerklärung </a>
+<button class="consent-button" onclick="showFacebook()">Durch die Nutzung des Facebook Plugins werden eventuell zusätzliche Cookies außerhalb unserer Website gesetzt (<a href='/_pages/datenschutz/'> Datenschutzerklärung </a> ). Indem Sie auf diesen Knopf klicken, stimmen Sie deren Verwendung zu und sehen den Facebook. <a href='/_pages/datenschutz/'> Datenschutzerklärung </a>
 </button>
 
 <div id="fb" style="display:none" class="fb-page" data-href="https://www.facebook.com/QuasiNeBand" data-tabs="timeline" data-width="" data-height="" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/facebook" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/facebook">Facebook</a></blockquote></div>
-

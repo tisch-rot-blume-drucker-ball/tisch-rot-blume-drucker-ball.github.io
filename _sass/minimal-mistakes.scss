@@ -179,47 +179,7 @@ blockquote {
   }
 }
 
-#FacebookB {
-  display: inline-block;
-  background-color: $quasi-green;
-  border: 3px solid $quasi-green-dark;
-  border-radius: 6px;
-  padding: 15px 25px;
-  margin: 15px 0;
-  width: 100%;
-  font-size: 0.95em;
-  line-height: 1.5;
-  color: #000;
-  text-align: center;
-  cursor: pointer;
-  transition: transform 0.2s ease, background-color 0.2s ease, color 0.2s ease;
-  box-shadow: 0 4px 0 $quasi-green-dark;
-  transform: translateY(0);
-
-  &:hover {
-    background-color: $quasi-green-dark;
-    color: #fff;
-    transform: translateY(2px);
-    box-shadow: 0 2px 0 darken($quasi-green-dark, 10%);
-  }
-
-  &:active {
-    transform: translateY(4px);
-    box-shadow: none;
-  }
-
-  a {
-    color: inherit;
-    text-decoration: none;
-    font-weight: bold;
-    
-    &:hover {
-      color: inherit;
-    }
-  }
-}
-
-#YouTubeB {
+.consent-button {
   display: inline-block;
   background-color: $quasi-green;
   border: 3px solid $quasi-green-dark;

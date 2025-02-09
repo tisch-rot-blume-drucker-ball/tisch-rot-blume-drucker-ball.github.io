@@ -66,7 +66,7 @@ gallery:
 ## Video
 
 <div id="youtube-container">
-  <button id="YouTubeB" onclick="showYouTube()">Durch die Nutzung des YouTube-Videos werden eventuell zusätzliche Cookies außerhalb unserer Website gesetzt (<a href='/_pages/datenschutz/'> Datenschutzerklärung </a>). Indem Sie auf diesen Knopf klicken, stimmen Sie deren Verwendung zu und sehen das Video. <a href='/_pages/datenschutz/'> Datenschutzerklärung </a></button>
+  <button class="consent-button" onclick="showYouTube()">Durch die Nutzung des YouTube-Videos werden eventuell zusätzliche Cookies außerhalb unserer Website gesetzt (<a href='/_pages/datenschutz/'> Datenschutzerklärung </a>). Indem Sie auf diesen Knopf klicken, stimmen Sie deren Verwendung zu und sehen das Video. <a href='/_pages/datenschutz/'> Datenschutzerklärung </a></button>
 </div>
 
 <script>
