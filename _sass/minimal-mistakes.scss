@@ -131,7 +131,7 @@ blockquote {
     background-position: center top;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    min-height: 48vh;  /* Ensure minimum height on larger screens, looked good on 150% zoom and trial-and-error says min-height before was 32vh  */
+    min-height: 64vh;  /* Ensure minimum height on larger screens, looked good on 150% zoom and trial-and-error says min-height before was 32vh  */
   }
 }
 
