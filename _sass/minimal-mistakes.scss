@@ -151,15 +151,66 @@ blockquote {
   z-index: 1;  /* Add z-index to keep overlay below content */
 }
 
-/* General background image settings */
 .page__hero--overlay {
-  position: relative;  /* Ensure proper stacking context */
-
-  /* Ensure content stays above overlay */
-  .wrapper {
     position: relative;
-    z-index: 2;
-  }
+    min-height: 60vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;  // This will align content to bottom
+    align-items: center;
+    padding: 0;
+    background-position: center;
+    background-size: cover;
+    z-index: 1;
+
+    .wrapper {
+        width: 100%;
+        padding: 2em;
+        margin-bottom: 0;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: flex-end;
+        position: relative;
+        z-index: 3;  // Ensure content is above overlay
+    }
+
+    .page__title {
+        text-align: center;
+        margin: 0 0 0.25em 0;
+        font-size: 2em;
+        padding: 0 10px;
+        position: relative;
+        z-index: 3;
+    }
+
+    .page__lead {
+        text-align: center;
+        margin: 0 0 1em 0;
+        font-size: 1.1em;
+        max-width: 600px;
+        padding: 0 10px;
+        position: relative;
+        z-index: 3;
+    }
+
+    .btn {
+        text-align: center;
+        margin: 1em 0;
+        padding: 0.75em 1.5em;
+        font-size: 1.1em;
+        background-color: $quasi-green;
+        border: none;
+        transition: all 0.3s ease;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+        position: relative;
+        z-index: 3;  // Ensure button is clickable
+
+        &:hover {
+            transform: scale(1.05);
+            background-color: $quasi-green-dark;
+        }
+    }
 }
 
 /* Desktop and larger screens */
