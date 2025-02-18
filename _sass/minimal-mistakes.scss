@@ -200,17 +200,18 @@ blockquote {
         text-align: center;
         padding: 0.75em 1.5em;
         font-size: 1.1em;
-        background-color: $quasi-green;
-        border: none;
+        background-color: $quasi-green-dark;
+        border: 2px solid white;
         transition: all 0.3s ease;
         box-shadow: 0 2px 5px rgba(0,0,0,0.2);
         position: relative;
         z-index: 3;
         margin-bottom: 0;
+        border-radius: 4px;
 
         &:hover {
             transform: scale(1.05);
-            background-color: $quasi-green-dark;
+            background-color: darken($quasi-green-dark, 10%);
         }
     }
 }
