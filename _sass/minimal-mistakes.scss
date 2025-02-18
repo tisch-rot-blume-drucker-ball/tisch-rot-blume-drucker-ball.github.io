@@ -218,3 +218,37 @@ blockquote {
     }
   }
 }
+
+//Reduce space between content and footer
+.page__content {
+  min-height: 0;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+
+.page__inner-wrap {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+//Footer überall gleiche Farbe wie Hintergrund
+.page__footer {
+  background-color: $background-color;
+  color: #fff;  /* Make footer text white */
+  margin-top: 0;
+  padding-top: 0;
+
+  footer {
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  a {
+    color: #fff;
+  }
+}
+
+.page__footer-follow {
+  margin-top: 0;
+  padding-top: 1em;
+}
