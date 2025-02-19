@@ -78,4 +78,4 @@ gallery:
 
 ## Bilder
 
-{% include gallery caption="Bilder" %}
+{% include gallery  %}
