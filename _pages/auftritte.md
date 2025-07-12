@@ -15,21 +15,27 @@ title: "Auftritte - Quasi ne Band"
         </tr>
     </thead>
     <tr style="background: #589436;">
-        <td> 17.11.2023 </td>
-        <td> Feuerzauber </td>
-        <td> Neugersdorf, Sparkasse </td>
-        <td> <a href="https://www.facebook.com/NeugersdorferFeuerzauber" > Feuerzauber auf Facebook </a> </td>
+        <td> 23.08.2025 </td>
+        <td> Privatveranstaltung </td>
+        <td> <!-- Neugersdorf, Sparkasse --></td>
+        <td> <!--<a href="https://www.facebook.com/NeugersdorferFeuerzauber" > Feuerzauber auf Facebook </a> --></td>
     </tr>
     <tr style="background: #3c6426;">
-        <td> 10.12.2023 </td>
-        <td> Weihnachtsmarkt </td>
-        <td> Neusalza-Spremberg </td>
+        <td> 26.09.2025 </td>
+        <td> </td>
+        <td> </td>
         <td> </td>
     </tr>
     <tr style="background: #589436;">
-        <td> 01.06.2024 </td>
-        <td> Sportfest </td>
-        <td> Bertsdorf </td>
+        <td> 24.01.2026 </td>
+        <td> Privatveranstaltung </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr style="background: #3c6426;">
+        <td> 12.09.2026 </td>
+        <td> Privatveranstaltung </td>
+        <td> </td>
         <td> </td>
     </tr>
 </table>
@@ -114,5 +120,25 @@ title: "Auftritte - Quasi ne Band"
         <td> 2023 </td>
         <td> Herbstmarkt    </td>
         <td> Dresden, Neumarkt    </td>
+    </tr>
+    <tr style="background: #589436;">
+        <td> 2025 </td>
+        <td> Neustädter Frühling 2025     </td>
+        <td> Dresden, Goldener Reiter  </td>
+    </tr>
+    <tr style="background: #3c6426;">
+        <td> 2025 </td>
+        <td> Feuerwehrjubiläum    </td>
+        <td> Niedercunnersdorf    </td>
+    </tr>
+    <tr style="background: #589436;">
+        <td> 2025 </td>
+        <td> Wiesenspektaktel     </td>
+        <td> Niederoderwitz  </td>
+    </tr>
+    <tr style="background: #3c6426;">
+        <td> 2025 </td>
+        <td> Fest unter der Linde    </td>
+        <td> Seifhennersdorf    </td>
     </tr>
 </table>
