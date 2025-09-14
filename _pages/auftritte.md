@@ -15,24 +15,18 @@ title: "Auftritte - Quasi ne Band"
         </tr>
     </thead>
     <tr style="background: #589436;">
-        <td> 23.08.2025 </td>
-        <td> Privatveranstaltung </td>
-        <td> <!-- Neugersdorf, Sparkasse --></td>
-        <td> <!--<a href="https://www.facebook.com/NeugersdorferFeuerzauber" > Feuerzauber auf Facebook </a> --></td>
+        <td> 14.11.2025 </td>
+        <td> Feuerzauber Neugersdorf </td>
+        <td> Neugersdorf, Sparkasse</td>
+        <td> <a href="https://www.facebook.com/NeugersdorferFeuerzauber" > Feuerzauber auf Facebook </a> --></td>
     </tr>
     <tr style="background: #3c6426;">
-        <td> 26.09.2025 </td>
-        <td> </td>
-        <td> </td>
-        <td> </td>
-    </tr>
-    <tr style="background: #589436;">
         <td> 24.01.2026 </td>
         <td> Privatveranstaltung </td>
         <td> </td>
         <td> </td>
     </tr>
-    <tr style="background: #3c6426;">
+    <tr style="background: #589436;">
         <td> 12.09.2026 </td>
         <td> Privatveranstaltung </td>
         <td> </td>
