@@ -18,7 +18,7 @@ title: "Auftritte - Quasi ne Band"
         <td> 14.11.2025 </td>
         <td> Feuerzauber Neugersdorf </td>
         <td> Neugersdorf, Sparkasse</td>
-        <td> <a href="https://www.facebook.com/NeugersdorferFeuerzauber" > Feuerzauber auf Facebook </a> --></td>
+        <td> <a href="https://www.facebook.com/NeugersdorferFeuerzauber" > Feuerzauber auf Facebook </a> </td>
     </tr>
     <tr style="background: #3c6426;">
         <td> 24.01.2026 </td>
