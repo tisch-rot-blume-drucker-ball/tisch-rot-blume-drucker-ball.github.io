@@ -26,6 +26,18 @@ title: "Auftritte - Quasi ne Band"
         <td> </td>
         <td> </td>
     </tr>
+     <tr style="background: #589436;">
+        <td> 12.06.2026 </td>
+        <td> Privatveranstaltung </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr style="background: #3c6426;">
+        <td> 27.06.2026 </td>
+        <td> Fest unter der Linde 2026 </td>
+        <td> Traditionshof Bulnheim Seifhennersdorf </td>
+        <td> </td>
+    </tr>
     <tr style="background: #589436;">
         <td> 12.09.2026 </td>
         <td> Privatveranstaltung </td>
