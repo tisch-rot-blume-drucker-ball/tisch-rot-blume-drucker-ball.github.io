@@ -17,7 +17,7 @@ Alexander Kramer
 
 ## Kontakt
 
-E-Mail: quasi-ne-band@mail.de  
+E-Mail: quasi-ne-band[at]mail.de  
 Telefon: 01709639135
 
 ## Umsatzsteuer-ID
