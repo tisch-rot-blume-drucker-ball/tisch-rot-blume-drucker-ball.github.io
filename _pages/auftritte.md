@@ -28,9 +28,9 @@ title: "Auftritte - Quasi ne Band"
     </tr>
      <tr style="background: #589436;">
         <td> 12.06.2026 </td>
-        <td> Privatveranstaltung </td>
-        <td> </td>
-        <td> </td>
+        <td> 3. Eltern- und Freundeball (öffentlich) </td>
+        <td> Grundschule Emil Ufer </td>
+        <td> Olbersdorf </td>
     </tr>
     <tr style="background: #3c6426;">
         <td> 27.06.2026 </td>
