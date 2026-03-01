@@ -14,23 +14,25 @@ title: "Auftritte - Quasi ne Band"
             <th> Links/Karten </th>
         </tr>
     </thead>
+    <!--
     <tr style="background: #589436;">
         <td> 14.11.2025 </td>
-        <td> Feuerzauber Neugersdorf </td>
-        <td> Neugersdorf, Sparkasse</td>
-        <td> <a href="https://www.facebook.com/NeugersdorferFeuerzauber" > Feuerzauber auf Facebook </a> </td>
+        <td> Tag der Vereine 2026 </td>
+        <td> Seifhennersdorf, Sportplatz </td>
+        <td> <a href="Link" > Website </a> </td>
     </tr>
+    -->
     <tr style="background: #3c6426;">
-        <td> 24.01.2026 </td>
-        <td> Privatveranstaltung </td>
-        <td> </td>
+        <td> 12.06.2026 </td>
+        <td> 3. Eltern- und Freundeball (öffentlich) </td>
+        <td> Grundschule Emil Ufer Olbersdorf </td>
         <td> </td>
     </tr>
      <tr style="background: #589436;">
-        <td> 12.06.2026 </td>
-        <td> 3. Eltern- und Freundeball (öffentlich) </td>
-        <td> Grundschule Emil Ufer </td>
-        <td> Olbersdorf </td>
+        <td> 13.06.2026 </td>
+        <td> Privatveranstaltung </td>
+        <td> </td>
+        <td> </td>
     </tr>
     <tr style="background: #3c6426;">
         <td> 27.06.2026 </td>
@@ -39,7 +41,19 @@ title: "Auftritte - Quasi ne Band"
         <td> </td>
     </tr>
     <tr style="background: #589436;">
-        <td> 12.09.2026 </td>
+        <td> 29.06.2026 </td>
+        <td> Privatveranstaltung </td>
+        <td> </td>
+        <td> </td>
+    </tr>
+    <tr style="background: #3c6426;">
+        <td> 04.09.2026 </td>
+        <td> Quasi ne Band auf der Windmühle Seifhennersdorf </td>
+        <td> Windmühle Seifhennersdorf </td>
+        <td> <a href="https://www.windmuehle-seifhennersdorf.de/veranstaltungen" > Tickets und Informationen </a> </td>
+    </tr>
+    <tr style="background: #589436;">
+        <td> 05.09.2026 </td>
         <td> Privatveranstaltung </td>
         <td> </td>
         <td> </td>
@@ -146,5 +160,10 @@ title: "Auftritte - Quasi ne Band"
         <td> 2025 </td>
         <td> Fest unter der Linde    </td>
         <td> Seifhennersdorf    </td>
+    </tr>
+     <tr style="background: #589436;">
+        <td> 2023-2025 </td>
+        <td> Feuerzauber Neugersdorf     </td>
+        <td> Ebersbach-Neugersdorf  </td>
     </tr>
 </table>
