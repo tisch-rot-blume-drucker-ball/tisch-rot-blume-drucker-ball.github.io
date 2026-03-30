@@ -22,6 +22,12 @@ title: "Auftritte - Quasi ne Band"
         <td> <a href="Link" > Website </a> </td>
     </tr>
     -->
+      <tr style="background: #589436;">
+        <td> 02.05.2026, 16:00 Uhr bis 17:30 Uhr </td>
+        <td> Neustädter Frühling 2026 </td>
+        <td> Dresden, Goldener Reiter </td>
+        <td> <a href="https://www.goldener-reiter.com/#infos" > Veranstalterseite </a> </td> </td>
+    </tr>
     <tr style="background: #3c6426;">
         <td> 12.06.2026 </td>
         <td> 3. Eltern- und Freundeball (öffentlich) </td>
