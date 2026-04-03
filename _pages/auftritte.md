@@ -23,7 +23,7 @@ title: "Auftritte - Quasi ne Band"
     </tr>
     -->
       <tr style="background: #589436;">
-        <td> 02.05.2026, 16:00 Uhr bis 17:30 Uhr </td>
+        <td> 02.05.2026, <br> 16:00 Uhr - 17:30 Uhr </td>
         <td> Neustädter Frühling 2026 </td>
         <td> Dresden, Goldener Reiter </td>
         <td> <a href="https://www.goldener-reiter.com" > Veranstalterseite </a> </td>
