@@ -2,7 +2,7 @@
 title: "Auftritte - Quasi ne Band"
 ---
 
-## Unsere nächsten Termine...
+## Unsere nächsten öffentlichen Auftritte:
 
 <!-- HTML Table because then I can alternate colors-->
 <table>
