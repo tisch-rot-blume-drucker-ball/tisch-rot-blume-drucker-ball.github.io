@@ -34,22 +34,10 @@ title: "Auftritte - Quasi ne Band"
         <td> Grundschule Emil Ufer Olbersdorf </td>
         <td> </td>
     </tr>
-     <tr style="background: #589436;">
-        <td> 13.06.2026 </td>
-        <td> Privatveranstaltung </td>
-        <td> </td>
-        <td> </td>
-    </tr>
-    <tr style="background: #3c6426;">
+    <tr style="background: #589436;">
         <td> 27.06.2026 </td>
         <td> Fest unter der Linde 2026 </td>
         <td> Traditionshof Bulnheim Seifhennersdorf </td>
-        <td> </td>
-    </tr>
-    <tr style="background: #589436;">
-        <td> 29.06.2026 </td>
-        <td> Privatveranstaltung </td>
-        <td> </td>
         <td> </td>
     </tr>
     <tr style="background: #3c6426;">
@@ -57,12 +45,6 @@ title: "Auftritte - Quasi ne Band"
         <td> Quasi ne Band auf der Windmühle Seifhennersdorf </td>
         <td> Windmühle Seifhennersdorf </td>
         <td> <a href="https://www.windmuehle-seifhennersdorf.de/veranstaltungen" > Tickets und Informationen </a> </td>
-    </tr>
-    <tr style="background: #589436;">
-        <td> 05.09.2026 </td>
-        <td> Privatveranstaltung </td>
-        <td> </td>
-        <td> </td>
     </tr>
 </table>
 
