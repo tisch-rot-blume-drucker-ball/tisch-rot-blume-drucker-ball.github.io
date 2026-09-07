@@ -21,8 +21,7 @@ title: "Auftritte - Quasi ne Band"
         <td> Seifhennersdorf, Sportplatz </td>
         <td> <a href="Link" > Website </a> </td>
     </tr>
-    -->
-      <tr style="background: #589436;">
+          <tr style="background: #589436;">
         <td> 02.05.2026, <br> 16:00 Uhr - 17:30 Uhr </td>
         <td> Neustädter Frühling 2026 </td>
         <td> Dresden, Goldener Reiter </td>
@@ -38,13 +37,14 @@ title: "Auftritte - Quasi ne Band"
         <td> 27.06.2026 </td>
         <td> Fest unter der Linde 2026 </td>
         <td> Traditionshof Bulnheim Seifhennersdorf </td>
-        <td> </td>
+      <td> </td>
+ -->
     </tr>
     <tr style="background: #3c6426;">
-        <td> 04.09.2026 </td>
-        <td> Quasi ne Band auf der Windmühle Seifhennersdorf </td>
-        <td> Windmühle Seifhennersdorf </td>
-        <td> <a href="https://www.windmuehle-seifhennersdorf.de/veranstaltungen" > Tickets und Informationen </a> </td>
+        <td> 13.11.2026 </td>
+        <td> Feuerzauber Neugersdorf, Sparkasse </td>
+        <td> Ebersbach-Neugersdorf </td>
+        <td> </td>
     </tr>
 </table>
 
@@ -153,5 +153,30 @@ title: "Auftritte - Quasi ne Band"
         <td> 2023-2025 </td>
         <td> Feuerzauber Neugersdorf     </td>
         <td> Ebersbach-Neugersdorf  </td>
+    </tr>
+      <tr style="background: #3c6426;">
+        <td> 2026 </td>
+        <td> Neustädter Frühling    </td>
+        <td> Dresden    </td>
+    </tr>
+     <tr style="background: #589436;">
+        <td> 2026 </td>
+        <td> Eltern- und Freundeball     </td>
+        <td> Olbersdorf  </td>
+    </tr>
+      <tr style="background: #3c6426;">
+        <td> 2026 </td>
+        <td> Fest unter der Linde    </td>
+        <td> Seifhennersdorf    </td>
+    </tr>
+     <tr style="background: #589436;">
+        <td> 2026 </td>
+        <td> Brauereifest ProBier    </td>
+        <td> Cunewalde  </td>
+    </tr>
+      <tr style="background: #3c6426;">
+        <td> 2026 </td>
+        <td> Clubabend auf der Windmühle    </td>
+        <td> Seifhennersdorf    </td>
     </tr>
 </table>
