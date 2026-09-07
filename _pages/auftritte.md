@@ -14,7 +14,7 @@ title: "Auftritte - Quasi ne Band"
             <th> Links/Karten </th>
         </tr>
     </thead>
-    <!--
+<!--
     <tr style="background: #589436;">
         <td> 14.11.2025 </td>
         <td> Tag der Vereine 2026 </td>
@@ -38,13 +38,13 @@ title: "Auftritte - Quasi ne Band"
         <td> Fest unter der Linde 2026 </td>
         <td> Traditionshof Bulnheim Seifhennersdorf </td>
       <td> </td>
- -->
-    </tr>
-    <tr style="background: #3c6426;">
+     </tr> 
+  -->
+      <tr style="background: #3c6426;">
         <td> 13.11.2026 </td>
         <td> Feuerzauber Neugersdorf, Sparkasse </td>
         <td> Ebersbach-Neugersdorf </td>
-        <td> </td>
+    <td> </td>
     </tr>
 </table>
 
